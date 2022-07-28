@@ -1,3 +1,7 @@
+*{
+    text-decoration: none !important;
+    list-style: none !important;
+}
 /*---------------------------NavBar---------------------------*/
 .imagen-logo{
     width: 50px;
@@ -19,11 +23,6 @@
 .list-a-text:hover {
     color:#8a2be2 !important;
 }
-.flex-nav{
-    text-align: right !important;
-    
-}
-
 /*---------------------------Fin NavBar---------------------------*/
 
 
@@ -31,13 +30,62 @@
 
 
 
+/*---------------------------Tamaños imagenes---------------------------*/
+.foto-pc{
+    width: 200px;
+    height: 200px;
+}
+
+.imagen-oferta{
+    width: 250px;
+    height:250px;
+}
+
+.imagen-novedad{
+    width: 200px;
+    height: 200px;
+}
+/*---------------------------Fin Imagenes---------------------------*/
 
 
 
 
 
 
+/*---------------------------Main---------------------------*/
+/* Section 1 */
+h2{
+    text-align: left;
+    background-color: #483d8b;
+    color: #fff;
+}
+.h2-combos{
+    text-align: center;
+    background-color: #fff;
+    color: #000000;
+}
 
+/* section 2 */
+.text-left{
+    text-align: start;
+}
+.button-comprar {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 10px;
+    border: 2px solid blueviolet;
+    box-shadow: 2px 2px 10px blueviolet;
+    color: #7fffd4;
+    background-color:#7fecffe0;
+}
+
+
+/* Section 3 */
+.p-novedades{
+    font-size: 40px;
+    font-weight: bold;
+}
 
 
 
