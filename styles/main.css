@@ -28,9 +28,11 @@
 
 
 
-
-
 /*---------------------------Tamaños imagenes---------------------------*/
+
+.imagen-carrousel{
+    height: 500px;
+}
 .foto-pc{
     width: 200px;
     height: 200px;
@@ -42,8 +44,8 @@
 }
 
 .imagen-novedad{
-    width: 200px;
-    height: 200px;
+    width: 220px;
+    height: 220px;
 }
 /*---------------------------Fin Imagenes---------------------------*/
 
@@ -86,6 +88,43 @@ h2{
     font-size: 40px;
     font-weight: bold;
 }
+/*---------------------------Fin Main---------------------------*/
+
+
+
+
+
+
+
+/*---------------------------Formulario---------------------------*/
+.imagenLogin{
+    height: 100px;
+    width: 100px;
+}
+
+.imagenLoginPoss{
+    text-align: center;
+}
+
+.form-poss{
+    background-color: #7fffd4;
+    margin: auto;
+    width: 90%;
+    max-width: 400px;
+    padding: 4.5em 3em;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px ;
+}
+
+.text-label{
+    font-weight: bold;
+}
+/*---------------------------Formulario---------------------------*/
+
+
+
+
+
 
 
 
