@@ -33,6 +33,10 @@
 .imagen-carrousel{
     height: 500px;
 }
+.imagen-carrousel-carrito{
+    height: 500px;
+
+}
 .foto-pc{
     width: 200px;
     height: 200px;
@@ -46,6 +50,15 @@
 .imagen-novedad{
     width: 220px;
     height: 220px;
+}
+
+.local-foto{
+    height: 300px;
+    width: 300px;
+}
+.mapa-foto {
+    height: 300px;
+    width: 300px;
 }
 /*---------------------------Fin Imagenes---------------------------*/
 
